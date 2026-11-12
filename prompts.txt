@@ -1,0 +1,3 @@
+Prompt used to create this project:
+
+Create a complete beginner-friendly Library Management System for a college assessment using Python, Streamlit, and SQLite. Provide app.py, database.py, requirements.txt, README.md, prompts.txt, and .gitignore. Create library.db automatically and define a books table with book_id, book_title, author_name, category, and available_copies. Implement adding and viewing books, total available copies, the most available book, and a category summary showing title counts and copy totals. Keep database code in database.py and UI code in app.py, validate inputs, handle errors, use a simple dashboard, document setup and running, and ignore the virtual environment and Python cache files.
